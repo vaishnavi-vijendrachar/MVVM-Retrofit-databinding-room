@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AADC 1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="humidity_label">Humidity </string>
+    <string name="temp_label">Temperature </string>
+    <string name="state_label">State </string>
+    <string name="max_label">Maximum  </string>
+    <string name="min_label">Minimum  </string>
+    <string name="empty"> : </string>
+</resources>
